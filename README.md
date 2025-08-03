@@ -24,17 +24,17 @@ Daily logs from SK Networks Family AI Camp
 
 ---
 
-### 📚 Weekly Log
+### 📚 Weekly Log (몰라 좀따 다시함)
 
 | 주차      | 주제                | 주요 내용                  | 링크                                  |
 | ------- | ----------------- | ---------------------- | ----------------------------------- |
 | Week 01 | Python & Numpy 기초 | 변수, 반복문, 벡터 연산 실습      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%201) |
-| Week 02 | Pandas & 시각화      | 데이터프레임 처리, 시각화 기초      | [🔗 바로가기](./Week%2002/week02.ipynb) |
-| Week 03 | 머신러닝 개념           | 지도학습 분류/회귀 실습          | [🔗 바로가기](./Week%2003/week03.ipynb) |
-| Week 04 | PyTorch 기반 딥러닝    | MLP, CNN 기본 구조 학습      | [🔗 바로가기](./Week%2004/week04.ipynb) |
-| Week 05 | 프로젝트 주제 선정        | 데이터 탐색 및 모델 기획         | [🔗 바로가기](./Week%2005/week05.ipynb) |
-| Week 06 | 예측 모델 구축          | 불균형 데이터 처리, Focal Loss | [🔗 바로가기](./Week%2006/week06.ipynb) |
-| Week 07 | LLM 응용            | 사투리 교정 챗봇 설계 및 구현      | [🔗 바로가기](./Week%2007/week07.ipynb) |
+| Week 02 | Pandas & 시각화      | 데이터프레임 처리, 시각화 기초      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%202) |
+| Week 03 | 머신러닝 개념           | 지도학습 분류/회귀 실습          | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%203) |
+| Week 04 | PyTorch 기반 딥러닝    | MLP, CNN 기본 구조 학습      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%204) |
+| Week 05 | 프로젝트 주제 선정        | 데이터 탐색 및 모델 기획         | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%205) |
+| Week 06 | 예측 모델 구축          | 불균형 데이터 처리, Focal Loss | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%206) |
+| Week 07 | LLM 응용            | OpenAI, Ollama 챗봇 설계 및 구현      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%207) |
 | ...     | ...               | ...                    | ...                                 |
 
 > ✅ 각 주차별 실습은 Jupyter Notebook 형식으로 정리되어 있으며, 주석과 시각화 중심의 학습 자료입니다.
