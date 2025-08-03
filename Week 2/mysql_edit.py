@@ -3,7 +3,7 @@ import pandas as pd
 import pymysql
 
 
-conn = pymysql.connect(host='127.0.0.1', user='play', passwd='123', database='sk17', port=3306)
+conn = pymysql.connect(host='127.0.0.1', user='', passwd='', database='', port=3306)
 cur = conn.cursor()
 
 def get_sql(sql):
