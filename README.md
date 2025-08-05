@@ -4,7 +4,6 @@ Daily logs from SK Networks Family AI Camp
 ### 📅 Duration
 
 **2025.05 \~ 진행 중**
-📍 *SK네트웍스 Family AI캠프 실습 정리 레포지토리*
 
 ---
 
@@ -22,7 +21,7 @@ Daily logs from SK Networks Family AI Camp
 
 ### 📚 Weekly Log
 
-| 주차          | 주제/프로젝트                                 | 주요 내용                                                        | 링크(예시)                                                                |
+| 주차          | 주제/프로젝트                                 | 주요 내용                                                        | 링크                                                                |
 | ----------- | --------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------- |
 | Week 01     | Python 기초 & 웹 크롤링                       | 변수/반복문/함수, 파일처리, BeautifulSoup 크롤링 실습                        | [Week 1](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/814e1665c4da47dac884b6139d2d75987f1c5f5a/Week%201)                                                         |
 | Week 02     | 로깅/예외/DB/시각화 전과정 구현                     | logging, 예외처리, MySQL 연동, matplotlib/Streamlit, 전체 파이프라인      | [Week 2](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%202)                                                         |
@@ -34,7 +33,7 @@ Daily logs from SK Networks Family AI Camp
 | Week 08 | Faster R-CNN, 감정 분류, 정규식               | Object Detection, 텍스트 분류 실전, re 모듈 실습       | [Week 8](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%208) |
 | Week 09 | LLM 개념 및 응용 (OpenAI, 챗봇 실습 시작)          | LLM(초거대언어모델) 기본, OpenAI API, 챗봇 구조 설계, 프롬프트 엔지니어링            | [Week 9](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%209)                                                         |
 | Week 10 | LLM 실전 ①: 텍스트 생성·요약/질의응답                | 자연어 생성, 텍스트 요약/문서 QA, 실습 프로젝트(텍스트 to 요약/챗봇)                  | [Week 10](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%2010)                                                         |
-| Week 11 | LLM 실전 ②: LangChain·RAG·고급 프롬프트         | LangChain, RAG 기반 문서검색, Retrieval-Augmented Generation 구조 실습 | [Week 11]([...)](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%2011)                                                        |
+| Week 11 | LLM 실전 ②: LangChain·RAG·고급 프롬프트         | LangChain, RAG 기반 문서검색, Retrieval-Augmented Generation 구조 실습 | [Week 11](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%2011)                                                        |
 | Week 12 | LLM 실전 ③: 생성형 AI 서비스, 오픈소스 LLM 적용(진행 중) | Ollama, open-llm, 실전 챗봇 배포, 대규모 데이터 기반 생성AI 서비스 기획/실습        | [Week 12](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/1b171da2122f1cc75318da3ad6e01afc6fe869ff/Week%2012)                                                        |
 | Week 13 | (예정) |         | [Week 13]                                                        |
 
