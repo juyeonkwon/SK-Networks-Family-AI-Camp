@@ -24,18 +24,23 @@ Daily logs from SK Networks Family AI Camp
 
 ---
 
-### 📚 Weekly Log (몰라 좀따 다시함)
+### 📚 Weekly Log
 
-| 주차      | 주제                | 주요 내용                  | 링크                                  |
-| ------- | ----------------- | ---------------------- | ----------------------------------- |
-| Week 01 | Python & Numpy 기초 | 변수, 반복문, 벡터 연산 실습      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%201) |
-| Week 02 | Pandas & 시각화      | 데이터프레임 처리, 시각화 기초      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%202) |
-| Week 03 | 머신러닝 개념           | 지도학습 분류/회귀 실습          | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%203) |
-| Week 04 | PyTorch 기반 딥러닝    | MLP, CNN 기본 구조 학습      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%204) |
-| Week 05 | 프로젝트 주제 선정        | 데이터 탐색 및 모델 기획         | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%205) |
-| Week 06 | 예측 모델 구축          | 불균형 데이터 처리, Focal Loss | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%206) |
-| Week 07 | LLM 응용            | OpenAI, Ollama 챗봇 설계 및 구현      | [🔗 바로가기](https://github.com/juyeonkwon/SK-Networks-Family-AI-Camp/tree/d5955674ade7027df4574e6c7d4c48cc19aef3a8/Week%207) |
-| ...     | ...               | ...                    | ...                                 |
+| 주차          | 주제/프로젝트                                 | 주요 내용                                                        | 링크(예시)                                                                |
+| ----------- | --------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------- |
+| Week 01     | Python 기초 & 웹 크롤링                       | 변수/반복문/함수, 파일처리, BeautifulSoup 크롤링 실습                        | [Week 1](Week 1)                                                         |
+| Week 02     | 로깅/예외/DB/시각화 전과정 구현                     | logging, 예외처리, MySQL 연동, matplotlib/Streamlit, 전체 파이프라인      | [Week 2](...)                                                         |
+| Week 03     | **1차 프로젝트: 전국 자동차 등록 시각화**              | 데이터 정제, ERD, MySQL 적재, 시각화 구조 설계, 회고                         | [Week 3](...)                                                         |
+| Week 04     | 회귀/분류                                   | 선형/로지스틱 회귀, 분류/평가지표, ML 구조화                                  | [Week 4](...)                                                         |
+| Week 05     | Decision Tree/앙상블, ML 워크플로우             | 트리/앙상블, 하이퍼파라미터, 실전 ML 프로젝트 흐름                               | [Week 5](...)                                                         |
+| Week 06     | 딥러닝 실전 & API 연동                         | PyTorch MLP/CNN, 데이터 증강, FastAPI/Streamlit, 실제 서비스화          | [Week 6](...)                                                         |
+| Week 07     | Faster R-CNN, 감정 분류, 정규식                | Object Detection, 텍스트 분류 실전, re 모듈 실습                        | [Week 7](...)                                                         |
+| **Week 08** | **2차 프로젝트: 축구선수 이적 예측 시스템**             | 데이터 전처리, CNN/MLP/DL 모델, SMOTE, 시각화, Streamlit 대시보드, 회고       | [Week 8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-3Team) |
+| **Week 09** | LLM 개념 및 응용 (OpenAI, 챗봇 실습 시작)          | LLM(초거대언어모델) 기본, OpenAI API, 챗봇 구조 설계, 프롬프트 엔지니어링            | [Week 9](...)                                                         |
+| **Week 10** | LLM 실전 ①: 텍스트 생성·요약/질의응답                | 자연어 생성, 텍스트 요약/문서 QA, 실습 프로젝트(텍스트 to 요약/챗봇)                  | [Week 10](...)                                                        |
+| **Week 11** | LLM 실전 ②: LangChain·RAG·고급 프롬프트         | LangChain, RAG 기반 문서검색, Retrieval-Augmented Generation 구조 실습 | [Week 11](...)                                                        |
+| **Week 12** | LLM 실전 ③: 생성형 AI 서비스, 오픈소스 LLM 적용(진행 중) | Ollama, open-llm, 실전 챗봇 배포, 대규모 데이터 기반 생성AI 서비스 기획/실습        | [Week 12](...)                                                        |
+
 
 > ✅ 각 주차별 실습은 Jupyter Notebook 형식으로 정리되어 있으며, 주석과 시각화 중심의 학습 자료입니다.
 
