@@ -46,11 +46,11 @@ Daily logs from SK Networks Family AI Camp
 ### 🚀 Semi Project
 * 📌 **전국 자동차 등록 현황 시각화 시스템**
 전국 자동차 등록 통계 데이터를 수집·정제하여, 지역·차종·연료별 트렌드를 분석 및 시각화하는 웹 시스템 구현
-→ 🔗 [🔗 프로젝트 레포 바로가기]((https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-6TEAM)
+  → 🔗 [프로젝트 레포 바로가기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-6TEAM)
 
 * 📌 **FootTrade - 축구선수 이적 예측 시스템**
   선수의 통계, 경기력 데이터를 기반으로 이적 가능성을 예측하는 모델 구현 및 Streamlit 앱 배포
-  → [🔗 프로젝트 레포 바로가기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-3Team)
+  → 🔗 [프로젝트 레포 바로가기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-3Team)
 
 ---
 
