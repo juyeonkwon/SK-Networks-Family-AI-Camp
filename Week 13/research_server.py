@@ -1,15 +1,42 @@
-
 import arxiv
 import json
 import os
 from typing import List
+from langchain_community.document_loaders import WebBaseLoader
 from mcp.server.fastmcp import FastMCP
+import bs4 
 
 
-PAPER_DIR = "../../papers"
+PAPER_DIR = "./papers"
 
 # FastMCP 서버 초기화
 mcp = FastMCP("research")
+
+@mcp.tool()
+def info_naver_news(url):
+    """
+    네이버 뉴스의 URL을 가지고 뉴스를 추출한다. 
+
+    Args:
+        url : 네이버 뉴스 주소 
+    Returns:
+        해당 url의 뉴스 본문 
+    """
+    if url.find("m.sports.naver.com") > -1:
+        loader = WebBaseLoader(
+                    web_path=(url,),
+                    bs_kwargs=dict(
+                        parse_only=bs4.SoupStrainer(class_ = "_article_content")
+                    )
+                        )
+    else:
+        loader = WebBaseLoader(
+                    web_path=(url,),
+                    bs_kwargs=dict(
+                        parse_only=bs4.SoupStrainer(id = "newsct_article")
+                    )
+                        )
+    return loader.load()[0].page_content.strip()
 
 @mcp.tool()
 def search_papers(topic: str, max_results: int = 5) -> List[str]:
@@ -81,7 +108,7 @@ def extract_info(paper_id: str) -> str:
     Returns:
         논문 정보를 담은 JSON 문자열 (찾지 못한 경우 오류 메시지 반환)
     """
- 
+
     for item in os.listdir(PAPER_DIR):
         item_path = os.path.join(PAPER_DIR, item)
         if os.path.isdir(item_path):
