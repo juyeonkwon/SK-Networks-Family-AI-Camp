@@ -1,0 +1,10 @@
+<h1> Hi </h1>
+{% if latest_question %}
+<ul>
+    {% for question in latest_question %}
+    <li><a href="/polls/{{ question.id }}/">{{ question.question_text}}</a></li>
+    {% endfor %}
+</ul>
+{% else %}
+    <p>No data</p>
+{% endif %}
