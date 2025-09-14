@@ -95,7 +95,7 @@ curl -X POST http://127.0.0.1:8000/predict/ \
 ``` python
 import pymysql
 conn = pymysql.connect(host='192.168.0.30', user='django',
-                       password='Encore!@#10', database='mydjango', port=3306)
+                       password='', database='mydjango', port=3306)
 cur = conn.cursor()
 cur.execute("SELECT * FROM board_question")
 rows = cur.fetchall()
