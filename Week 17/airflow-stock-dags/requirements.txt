@@ -1,0 +1,6 @@
+# Airflow 작업 태스크용 의존성 (워커/이미지에 설치)
+pandas==1.5.3
+requests>=2.31.0
+pendulum>=2.1.2
+SQLAlchemy>=2.0.0
+PyMySQL>=1.1.0
