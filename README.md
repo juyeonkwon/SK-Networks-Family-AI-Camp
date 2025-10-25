@@ -57,10 +57,10 @@ Daily logs from SK Networks Family AI Camp
   공고 수집 → 스펙 파싱 → 매칭 → LLM 자소서 생성·평가 → 산출물 제출  
   → 🔗 [프로젝트 레포](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-2team)
 
-* 📌 **취업하JOB — 구직 추천 + 자소서 자동 생성 팀 프로젝트(Django)**
-  구직자 스펙 입력 → 채용공고 크롤링 및 매칭 → 기업 인재상 기반 자소서 초안 생성 → LLM 기반 피드백·첨삭 루프 → Django 웹 UI 결과 시각화
+* 📌 **취업하JOB — 구직 추천 + 자소서 자동 생성 팀 프로젝트(Django)**  
+  구직자 스펙 입력 → 채용공고 크롤링 및 매칭 → 기업 인재상 기반 자소서 초안 생성 → LLM 기반 피드백·첨삭 루프 → Django 웹 UI 결과 시각화  
   → 🔗 [프로젝트 레포](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4rd-2team)
 
-* 📌 **ASSEMBLE — 한샘 인테리어 맞춤 설계 AI 시스템**
-  한샘 시공사례 데이터셋 구축 → 텍스트·이미지 매핑 → 공간·스타일·예산 코드 기반 SLLM 파인튜닝 → Diffusion 모델 파인튜닝으로 이미지 생성·보정 → AWS 기반 웹 서비스 통합
+* 📌 **ASSEMBLE — 한샘 인테리어 맞춤 설계 AI 시스템**  
+  한샘 시공사례 데이터셋 구축 → 텍스트·이미지 매핑 → 공간·스타일·예산 코드 기반 SLLM 파인튜닝 → Diffusion 모델 파인튜닝으로 이미지 생성·보정 → AWS 기반 웹 서비스 통합  
   → 🔗 [프로젝트 레포](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM)
